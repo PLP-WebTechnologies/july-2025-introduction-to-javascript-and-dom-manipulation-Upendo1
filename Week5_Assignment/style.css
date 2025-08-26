@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+h3 {
+  font-size: 24px;
+  color: green;
+  margin-top: 20px;
+}
